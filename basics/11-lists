@@ -1,2 +1,2 @@
 #!/bin/bash
-/boot file
+file /boot/tmp
