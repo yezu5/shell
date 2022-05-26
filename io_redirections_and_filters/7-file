@@ -1,2 +1,2 @@
 #!/bin/bash
-echo \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) / Best School \n
+head -n 1 "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" | tail -n 2 "Best School"
