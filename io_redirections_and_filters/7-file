@@ -1,2 +1,2 @@
 #!/bin/bash
-vim "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" \n
+"\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" | Best School \n
