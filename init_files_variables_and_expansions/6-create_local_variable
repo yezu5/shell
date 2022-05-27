@@ -1,2 +1,2 @@
 #!/bin/bash
-unset "Best=School"
+Best="School"
