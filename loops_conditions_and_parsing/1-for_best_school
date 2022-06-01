@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # This script is displaying "Best School" 10 times
 
-head -n 2 1-for_best_school
+if head -n 2 1-for_best_school
 
-
+echo "Best School"
