@@ -7,7 +7,7 @@ do
 	((x++)) ;
 
 if ((x=9))
-do
+
 	echo "Hi" ;
 	(\n) ;
 done
