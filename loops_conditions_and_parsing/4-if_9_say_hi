@@ -8,5 +8,5 @@ do
 	echo "Hi" ;
 	fi
 	echo "Best School" ;
-	(( x++1 ))
+	( ( x++1 ) )
 done
