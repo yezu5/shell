@@ -10,4 +10,5 @@ do
 	echo "Hi" ;
 	fi
 	echo "Best School" ;
+	((x++))
 done
