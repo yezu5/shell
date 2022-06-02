@@ -6,7 +6,8 @@ do
 	echo "Hi" ;
 if ((x = 9))
 then
-fi
+
 	echo "Best School" ;	
 	((x++)) ;
+fi
 done
