@@ -3,10 +3,11 @@
 x=0
 while ((x < 10)) 
 do
-	if ((x = 9))
-then
-	echo "Hi" ;
-fi
-	echo "Best School" ;	
+	echo "Best School" ;
 	((x++)) ;
+then
+if ((x = 9))
+fi
+	echo "Hi" ;	
+
 done
