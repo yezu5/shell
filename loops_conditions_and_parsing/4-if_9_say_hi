@@ -8,6 +8,6 @@ do
 
 if ((x=9))
 do
-	echo "Hi" 
-	\n
+	echo "Hi" ;
+	(\n) ;
 done
