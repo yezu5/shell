@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#This script displays "Content of current directory in a list format"
+ls=0
+for [$ls <= 14]
+do
+	echo$ "ls"
+done 
