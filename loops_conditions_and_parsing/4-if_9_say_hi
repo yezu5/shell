@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 #This script is displaying "Best School" 10 times
-x=0
-while (( x <= 10 )) 
+x=1
+while (( x <= 9 )) 
 do
-	echo "Best School"
-	((x++))
-if ((x=9))
-then
-	echo "Hi" ;
-else
 	echo "Best School" ;
-fi	
+	((x++))
+	
+	if ((x==9))	
+then	
+	echo "Hi" ;
+
+fi
 done
