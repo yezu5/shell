@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script is displaying "Lines containing the bash word".
+
+ps -auxf | grep "bash"
